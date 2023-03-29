@@ -1,3 +1,5 @@
+<img src="https://github.com/joelrivas/joelrivas/blob/main/header.png" alt="my banner as data scientist">
+
 ### Hi there 👋
 
 <!--
